@@ -1,0 +1,48 @@
+about:
+  name: Alexander Rühe
+  tagline: Data Engineer / Backend Engineer
+  email: contact@aruehe.io
+  links:
+    - title: /in/alexanderruehe
+      url: https://linkedin.com/in/alexanderruehe
+      icon: fab fa-linkedin
+    - title: alex-ruehe
+      url: https://github.com/alex-ruehe
+      icon: fab fa-github
+  details: |
+    7 years of experience in designing, developing, and operating data processing platforms with a focus on speed and scalability in challenging environments both on-prem and in AWS.
+
+    As a Backend Engineer, Data Engineer and technical lead, I have successfully architected, built, and operated secure products across various domains, such as
+
+    - Visitor flow analysis in retail stores using WiFi signals
+    - Mobility data analysis derived from anonymized IMSI data
+    - Vehicle sensor data processing
+
+    I have also multiple years of experience in stakeholder management, documenting architecture, technical interviews and mentoring. Always interested in exploring new domains and specializations and a big fan of learning by doing.
+
+
+skills:
+  - groupName: Programming
+    list:
+      - Python - SQL - Bash
+
+
+  - groupName: AWS
+    list:
+      - CDK/CloudFormation - DataSync - EC2 - ECS - EventBridge - Lambda - RDS - S3 - SageMaker - SQS - Step Functions - VPC
+
+  - groupName: Frameworks & Libraries
+    list:
+      - Angular - boto3 - Flask - Pandas - SQLAlchemy
+
+  - groupName: Tools
+    list:
+      - Atlassian Tools - Git - Jenkins - Kubernetes - packer - terraform
+
+
+languages:
+  - name: German
+    level: Native
+
+  - name: English
+    level: Professional

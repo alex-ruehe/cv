@@ -1,0 +1,16 @@
+[submodule "themes/online-resume"]
+	path = themes/online-resume
+	url = git@github.com:tarrex/hugo-theme-online-resume.git
+
+[submodule "themes/flex-bp-huge-cv"]
+	path = themes/flex-bp-huge-cv
+	url = git@github.com:spech66/flex-bp-hugo-cv.git
+[submodule "themes/flex-bp-hugo-cv"]
+	path = themes/flex-bp-hugo-cv
+	url = git@github.com:spech66/flex-bp-hugo-cv
+[submodule "themes/themes/resume-a4"]
+	path = themes/themes/resume-a4
+	url = https://gitlab.com/mertbakir/resume-a4.git
+[submodule "themes/resume-a4"]
+	path = themes/resume-a4
+	url = https://gitlab.com/mertbakir/resume-a4.git

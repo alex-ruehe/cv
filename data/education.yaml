@@ -1,0 +1,17 @@
+- name: Msc. Computer Science
+  university: TU Berlin
+  location: Berlin, DE
+  date: 2013 - 2017
+  grade: not completed
+  details: >
+    Study Focus: Intelligent Systems
+
+
+- name: Bsc. Mathematics
+  university: TU Braunschweig
+  location: Braunschweig, DE
+  date: 2007 - 2012
+  grade : 2,2
+
+  details: >
+    Major: Graph Theory, Minor: Computer Science

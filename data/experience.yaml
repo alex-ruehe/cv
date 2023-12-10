@@ -1,0 +1,69 @@
+- company: Volkswagen Group
+  roles:
+    - role: Senior Data Engineer / Technical Lead
+      tools: Python, AWS, Angular, (My)SQL, Terraform, AWS CDK, Jenkins, Kubernetes, Go, Bash
+      details: |
+        As technical lead I am currently responsible for overseeing the development of our internal measurement data platform. 
+        + Designed an architecture to migrate slow legacy processes from on-prem into the cloud, reducing the processing time by at least 50%
+        + Supported building the ingestion layer for autonomous driving (AD) data from ID.Buzz AD 
+        + Added new features to improve usability experience of platform for users
+        + Acquired and onboarded new brands
+      date: 02.2023 - Present
+    - role: Data Engineer
+      tools: Python, AWS, Angular, (My)SQL, Terraform, AWS CDK, Jenkins, Kubernetes, Go, Bash, Visual Basic
+      details: |
+        Continued to work on the internal measurement data management platform
+        + Planned the architecture for an Analytics Workbench using AWS SageMaker to empower business departments
+        + Implemented multiple parts of the workbench infrastructure leveraging AWS CDK
+        + Designed and rolled-out a new data ingestion process using AWS DataSync
+        + Migrated a small part of an on-prem legacy conversion process to AWS
+        + Supported research projects with development support
+        
+      date: 04.2021 -  01.2023
+
+- company: Volkswagen Commercial Vehicles
+  page: 2
+  roles: 
+    - role: Data Engineer
+      tools: Python, AWS, Angular, MySQL, Terraform, Jenkins, Kubernetes, Bash
+      details: |
+        Worked in a team that develops and operates an internal measurement data management platform running in AWS for the Volkswagen Commercial Vehicles brand.
+        + Built infrastructure and event-driven pipelines in AWS using Terraform
+        + Developed new AWS Lambda functions for KPI calculation using Python
+        + Expanded Flask API and Angular frontend for data access
+        + Collected stakeholder requirements for new features
+        + Operated the platform (deployment, monitoring, user management)
+      date: 02.2020 - 03.2021
+
+- company: Minodes - A Telefónica NEXT Company
+  page: 2
+  roles: 
+    - role: Backend Developer
+      tools: Python, PostgreSQL, Cassandra, Jupyter Notebooks, Airflow, C
+      details: |
+        My main task was to design and implement an API and a data processing pipeline to receive and process WiFi signals for location analysis in compliance with the GDPR. 
+         + Extended the logger hardware to encrypt data directly at the source
+         + Extended existing APIs for receiving and processing the encrypted data
+         + Integrated a new interface with which statistics on the encrypted data could be created in compliance with the GDPR
+         + Developed of a new REST-API to provide KPIs for customers
+
+        Other tasks were maintenance / expansion of the existing ETL jobs in Airflow and customer support for hardware problems/diagnosis
+      date: 05.2017 - 12.2019
+    - role: Backend Developer (Internship)
+      tools: Python, PostgreSQL, Cassandra, Jupyter Notebooks, Airflow, C
+      details: |
+        The Minodes GmbH developed a Wifi-based analysis tool to evaluate customer flows at trade fairs, markets and in department
+        stores ("in-store analytics") and make these available to customers (retailers, event organizers). This tool was later 
+        combined with IMSI data from the Telefonica network.
+
+        During my internship, my tasks consisted of getting to know all the backend services and implementing simple bug fixes and feature tickets. Furthermore, I dealt with small tickets related to the hardware that was installed in stored to record the Wifi signals.
+      date: 05.2017 - 08.2019
+
+- company: Bosch
+  page: 2
+  roles: 
+    - role: Voluntary Internship in R&D
+      tools: C++, ROS, Gazebo
+      details: |
+        During my voluntary intership I implemented a navigation module for an autonomus vehicle in C++ for the Robot Operating System including simulation using Gazebo. Additionally I also wrote multiple test classes for some internal libraries that provided mathematical functions.
+      date: 05.2013 - 09.2013
