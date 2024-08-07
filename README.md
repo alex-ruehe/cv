@@ -1,1 +1,1 @@
-# resume
+Static site for aruehe.io
