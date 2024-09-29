@@ -3,6 +3,9 @@ about:
   tagline: Data Engineer / Backend Engineer
   email: contact@aruehe.io
   links:
+    - title: my blog
+      url: https://dfghj.de
+      icon: fas fa-rss
     - title: /in/alexanderruehe
       url: https://linkedin.com/in/alexanderruehe
       icon: fab fa-linkedin
